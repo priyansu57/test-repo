@@ -9,4 +9,5 @@ that was the file i will push manually to the github.....
   . test the fetch  
   . test the reset  
   . 2nd bug was fixed .
+  . 3rd bug was fixed .
   
