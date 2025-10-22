@@ -1,3 +1,6 @@
 that was the file i will push manually to the github.....
 
- test the u for the push 
+ test the u for the push .
+
+ that bug fixed section : 
+  . 1st bug was fixed .
